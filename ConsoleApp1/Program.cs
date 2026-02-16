@@ -17,7 +17,7 @@ class Program
         }
         else
         {
-            Console.WriteLine("Invalid input.");
+            Console.WriteLine("Invalid input to be filled.");
         }
     }
     public string GetValue(int n)
